@@ -1,0 +1,9 @@
+
+username: brenodobroski
+password: qKqwLQx0YsFINiUW
+
+
+mongodb+srv://brenodobroski:qKqwLQx0YsFINiUW@biblioteca.2wjqgfn.mongodb.net/
+
+
+mongodb+srv://brenodobroski:qKqwLQx0YsFINiUW@biblioteca.2wjqgfn.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
